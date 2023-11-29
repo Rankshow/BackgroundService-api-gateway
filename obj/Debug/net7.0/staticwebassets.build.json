@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GHjtP/Cn0sA52Mv1aeYK55syA552M+F44QdA5v/kznE=",
+  "Source": "BackgroundService-api-gateway",
+  "BasePath": "_content/BackgroundService-api-gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
